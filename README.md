@@ -1,5 +1,5 @@
 # Matlab-3d-battleship
-2 person group 1-2 month project from 2007
+2 person group 1-2 month project from 2007 (fall quarter sophmore year)
 - Travis Boraten
 - Dominic DiTomaso
 
