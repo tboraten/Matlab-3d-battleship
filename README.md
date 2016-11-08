@@ -25,4 +25,6 @@ Battleship:
 - Projectile animation
 - Sound for misses and hits
 - Inital splash loading screen
+- Ship scoreboard
+- Animated playing board
 - End of game stats screen.
