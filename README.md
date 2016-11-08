@@ -7,7 +7,7 @@ executable: arena.m
 
 For this assignment we were given complete freedom.
 
-The direction that we took this assignment was completly up to us. And we ran with it!
+The direction that we took this assignment was completly up to us. And we ran with it! Over achieved 1000%
 
 The minimum requirements:
 
@@ -16,6 +16,10 @@ The minimum requirements:
 - Had to have market value
 
 We won the best project award.
+Our competition:
+- A calculator
+- 2-d college recruiting tool that displayed stats for schools in ohio and images of their logos.
+
 
 Battleship:
 - 3d-grid
