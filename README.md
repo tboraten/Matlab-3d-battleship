@@ -9,17 +9,12 @@ For this assignment we were given complete freedom.
 
 The direction that we took this assignment was completly up to us. And we ran with it! Over achieved 1000%
 
-The minimum requirements:
-
+Project minimum requirements:
 - Had to have animation
 - Had to utilize vectors 
 - Had to have market value
 
-We won the best project award.
-Our competition:
-- A calculator
-- 2-d college recruiting tool that displayed stats for schools in ohio and images of their logos.
-
+Our final result:
 
 Battleship:
 - 3d-grid
@@ -32,3 +27,11 @@ Battleship:
 - Ship scoreboard
 - Animated playing board
 - End of game stats screen.
+
+We won the best project award.
+Our competition:
+- A calculator
+- Rotating double helix animation
+- 2-d college recruiting tool that displayed stats for schools in ohio and images of their logos.
+
+
